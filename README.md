@@ -1,3 +1,9 @@
-# Smart Fizz Killer PRO
+# Smart Fizz Killer (LV2 Plugin for MOD Desktop & MODEP)
 
-4-stage digital guitar smoothing LV2 plugin for MODEP and MOD Desktop.
+Boutique guitar high-end smoothing pedal with phase-smearing and adaptive dynamic fizz suppression.
+
+## Installation
+Drop the `smart-fizz-killer.lv2` bundle into your LV2 directory:
+- **Windows**: `C:\Program Files\MOD Desktop\plugins\`
+- **Linux / MODEP**: `~/.lv2/` or `/var/modep/lv2/`
+- **macOS**: `~/Library/Audio/Plug-Ins/LV2/`
